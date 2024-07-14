@@ -1,9 +1,7 @@
-# Custom_LLM_Learn
-Learn to develop a custom LLM which can translate from English to Punjabi. Easy to follow tutorial
+# Learn Custom LLMs: Tutorial to Develop an LLM for Translating English to Punjabi
 
-Follow the notebook along to understand the entire process.
+Follow the notebook in this repo along to understand the entire process.
 
-# Tutorial to Develop LLM that can Translating English to Punjabi
 In this repo, we'll guide you through the process of fine-tuning a language model to translate English sentences into Punjabi. This project uses a smaller 1 billion parameter model that fits into the free TPU memory of Google Colab. We'll walk you through the steps of using a custom dataset, setting up the training environment, and evaluating the model's performance. By the end, you'll see how this approach can benefit local languages through translation and how you can replicate it at home using open-source tools.
 
 # Introduction to the Project
